@@ -115,7 +115,7 @@ double calculateWidth()
 }
 
 //********************************************************
-// double calculateWidth()
+// double calculateHeight()
 //
 // Purpose:         Print the height of a city/circle
 // Input:           distance from calculateDistance()
